@@ -1,6 +1,7 @@
 import FighterInfo as fi
 import Calculations as cal
 
+# Edit instructions to add semicolon update
 print("Welcome to my MMA prediction machine!\n"
     + "Please enter two fighter names separated by a comma and space "
     + "(e.g. \"Tony Ferguson, Khabib Nurmogamedov\")")
